@@ -1,6 +1,6 @@
 # Addressing-Regression-Problems-using-ML-DL-methods
 ![REG](https://trainings.internshala.com/blog/wp-content/uploads/2023/07/Regression-in-machine-learning-1.jpg)
-Welcome to our comprehensive repository dedicated to handling regression problems via the effective techniques of both Machine Learning (ML) and Deep Learning (DL). This repository supplies a rich assortment of resources, including code implementations, tutorials, datasets, and documentation, tailored to provide beginners and seasoned practitioners with the essential tools and insights to attack regression tasks effectively.
+Welcome to our comprehensive repository dedicated to handling regression problems via the effective techniques of Machine Learning (ML) and Deep Learning (DL). This repository supplies a rich assortment of resources, including code implementations, tutorials, datasets, and documentation, tailored to provide beginners and seasoned practitioners with the essential tools and insights to attack regression tasks effectively.
 
 Our repository covers a wide array of regression techniques, ranging from classical ML algorithms such as linear regression, decision trees, and support vector machines, to advanced DL architectures like artificial neural networks, convolutional neural networks (CNNs), recurrent neural networks (RNNs), and more. Each method is thoroughly explored through hands-on Jupyter notebooks, attended by detailed explanations, code snippets, and visualizations to facilitate understanding and implementation.
 
